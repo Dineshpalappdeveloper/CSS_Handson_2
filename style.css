@@ -23,6 +23,7 @@ body {
     background-image: url(./hello.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0px;
 }
 
 .box1 {
